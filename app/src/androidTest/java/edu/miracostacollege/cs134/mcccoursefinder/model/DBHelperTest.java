@@ -97,6 +97,7 @@ public class DBHelperTest {
         assertEquals("Testing size of all courses", 0, testDB.deleteCourse(null));
     }
 
+    // TODO: tests for methods below
     @Test
     public void deleteAllCourses() {
     }
